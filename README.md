@@ -1,2 +1,2 @@
 # leetcode-examples
-Leetcode coding excersizes
+Leetcode coding excersises
